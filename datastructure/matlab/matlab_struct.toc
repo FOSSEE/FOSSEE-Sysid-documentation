@@ -1,0 +1,7 @@
+\contentsline {chapter}{\numberline {1}Calling Sequence}{2}
+\contentsline {chapter}{\numberline {2}Model structure (idpoly)}{3}
+\contentsline {section}{\numberline {2.1}Model structure output \FN@sf@gobble@opt {This option is also available in GUI (called using 'ident')}}{3}
+\contentsline {section}{\numberline {2.2}Model structure attributes}{4}
+\contentsline {chapter}{\numberline {3}Data structure (iddata)}{11}
+\contentsline {section}{\numberline {3.1}Data structure output}{11}
+\contentsline {section}{\numberline {3.2}Data structure attributes}{11}
